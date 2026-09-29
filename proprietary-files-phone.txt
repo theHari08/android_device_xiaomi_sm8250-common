@@ -34,3 +34,13 @@ vendor/lib64/libmlipay@1.1.so
 
 # Soter service (Tencent)
 vendor/app/SoterService/SoterService.apk
+
+# IMS
+system_ext/priv-app/ims/ims.apk
+
+# RIL
+system_ext/app/QtiTelephonyService/QtiTelephonyService.apk
+system_ext/etc/permissions/qcrilhook.xml
+system_ext/etc/permissions/telephony_system-ext_privapp-permissions-qti.xml
+system_ext/framework/qcrilhook.jar
+system_ext/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
